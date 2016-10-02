@@ -1,7 +1,9 @@
 import java.util.*;
+
 	class A03 {
+
 	int m_count = 0;
-		public static void main(String[] s){
+		public static void main(String[] args){
 			new A03().daycalculate();
 			}
 		void daycalculate()
